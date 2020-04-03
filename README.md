@@ -3,7 +3,7 @@
 
  **学堂在线教学视频：[http://www.xuetangx.com/courses/course-v1:TsinghuaX+2018032801X+2018_T1/about](http://www.xuetangx.com/courses/course-v1:TsinghuaX+2018032801X+2018_T1/about)**
  
- **我的GitHub主页（欢迎fellow）：[https://github.com/VenomMGF](https://github.com/VenomMGF)**
+ **我的GitHub主页：[https://github.com/VenomMGF](https://github.com/VenomMGF)**
 
  **我的CSDN主页：https://me.csdn.net/weixin_43829992](https://me.csdn.net/weixin_43829992)**
 
